@@ -1,5 +1,5 @@
 ### Welcome to Country Quest
-## In this project, we are creating an interactive application where users can learn about different countries by fetching data from an API. This project provides the base URL and documentation on how to use the API endpoints to get country data.
+# In this project, we are creating an interactive application where users can learn about different countries by fetching data from an API. This project provides the base URL and documentation on how to use the API endpoints to get country data.
 
 # Project Overview
 ***When you start the application, you will see an example country displayed (Nigeria) with its flag, population, region, official language, and currency. Your task is to expand the project by displaying as many countries as possible, fetching data dynamically, and integrating it within the JSX structure.***
